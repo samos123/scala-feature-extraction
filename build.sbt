@@ -1,5 +1,7 @@
-name := "opencv2-scala-test"
+name := "scala-feat-test"
 organization := "samos"
+scalaVersion := "2.11.7"
+exportJars := true
 
 
 libraryDependencies ++= Seq(
